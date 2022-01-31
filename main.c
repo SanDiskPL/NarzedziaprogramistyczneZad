@@ -14,6 +14,8 @@ int main() {
     scanf("%d %d", &liczba1, &liczba2);
     suma = liczba1 + liczba2;
     printf("%d + %d = %d", liczba1, liczba2, suma);
+
+    printf("\nNarzedzia programistyczne");
     return 0;
 
 }
