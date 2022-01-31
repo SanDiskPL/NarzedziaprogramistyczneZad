@@ -2,7 +2,7 @@
 
 int main() {
     char slowo[25];
-    int liczba1, liczba2;
+    int github, git;
     int suma;
 
     printf("Narzedzia programistyczne program\n");
